@@ -1,0 +1,101 @@
+sku_id,stockout_risk,overstock_risk,stockout_risk_score,overstock_risk_score,action,value_at_stake
+SKU057,Low,High,0.0,56.59824047,Markdown / Clear,1423730.12
+SKU099,Low,High,7.215132654,65.73913043,Markdown / Clear,1230779.34
+SKU076,Low,High,0.0,54.37262357,Markdown / Clear,787798.44
+SKU029,Low,High,0.0,90.78014184,Markdown / Clear,605620.48
+SKU015,Low,High,0.0,61.95121951,Markdown / Clear,547931.34
+SKU087,Low,High,0.0,100.0,Markdown / Clear,496875.9
+SKU094,Low,High,18.73589165,51.2605042,Markdown / Clear,299362.38
+SKU020,Low,High,0.0,72.72727273,Markdown / Clear,291464.8
+SKU039,Low,High,0.0,100.0,Markdown / Clear,181802.79
+SKU003,Low,Low,0.0,0.0,Healthy,0.0
+SKU004,Low,Low,0.0,0.0,Healthy,0.0
+SKU006,Low,Medium,0.0,41.91176471,Watch / Volatile,0.0
+SKU012,Low,Low,5.915420979,0.0,Healthy,0.0
+SKU011,Medium,Low,35.83104485,4.94011976,Watch / Volatile,0.0
+SKU002,Low,Low,9.427609428,0.0,Healthy,0.0
+SKU005,Low,Low,0.601295097,0.0,Healthy,0.0
+SKU009,Low,Low,0.0,0.0,Healthy,0.0
+SKU010,Medium,Low,32.71641791,5.921052632,Watch / Volatile,0.0
+SKU007,Low,Low,0.0,0.0,Healthy,0.0
+SKU008,Low,Low,0.0,0.0,Healthy,0.0
+SKU019,Low,Low,0.0,0.0,Healthy,0.0
+SKU021,Low,Low,0.0,8.59030837,Healthy,0.0
+SKU023,Low,Medium,0.0,27.27272727,Watch / Volatile,0.0
+SKU022,Low,Medium,0.0,30.43981481,Watch / Volatile,0.0
+SKU025,Low,Low,0.0,0.0,Healthy,0.0
+SKU026,Low,Low,0.0,0.0,Healthy,0.0
+SKU027,Low,Low,0.0,0.0,Healthy,0.0
+SKU024,Low,Low,0.0,0.0,Healthy,0.0
+SKU028,Low,Low,0.0,0.0,Healthy,0.0
+SKU030,Low,Low,0.0,9.760273973,Healthy,0.0
+SKU014,Low,Medium,0.0,35.25,Watch / Volatile,0.0
+SKU013,Low,Low,19.07216495,17.1641791,Healthy,0.0
+SKU016,Low,Low,0.0,0.0,Healthy,0.0
+SKU017,Medium,Low,34.44541996,0.0,Watch / Volatile,0.0
+SKU018,Medium,Low,27.03664176,0.0,Watch / Volatile,0.0
+SKU001,Low,Medium,0.0,29.77272727,Watch / Volatile,0.0
+SKU036,Low,Low,0.0,0.0,Healthy,0.0
+SKU035,Low,Low,0.0,0.0,Healthy,0.0
+SKU034,Low,Low,11.20564633,16.72597865,Healthy,0.0
+SKU033,Low,Low,0.0,0.0,Healthy,0.0
+SKU032,Low,Low,0.0,0.0,Healthy,0.0
+SKU031,Low,Low,0.0,4.612159329,Healthy,0.0
+SKU038,Low,Low,0.0,0.0,Healthy,0.0
+SKU037,Medium,High,26.1682243,51.92307692,Watch / Volatile,0.0
+SKU045,Low,Low,0.0,0.0,Healthy,0.0
+SKU046,Low,Low,0.0,0.0,Healthy,0.0
+SKU047,Low,Low,0.0,8.022130014,Healthy,0.0
+SKU048,Low,Low,0.0,0.0,Healthy,0.0
+SKU041,Low,Low,0.0,0.0,Healthy,0.0
+SKU042,Low,Low,0.0,0.0,Healthy,0.0
+SKU043,Low,Low,0.0,0.0,Healthy,0.0
+SKU040,Low,Low,0.0,0.0,Healthy,0.0
+SKU052,Low,Low,23.55595668,14.1509434,Healthy,0.0
+SKU053,Low,Low,0.0,0.0,Healthy,0.0
+SKU055,Low,Low,0.0,3.547297297,Healthy,0.0
+SKU054,Medium,Low,31.59521051,0.0,Watch / Volatile,0.0
+SKU056,Low,Low,10.42120208,7.47217806,Healthy,0.0
+SKU058,Low,Low,9.151414309,0.0,Healthy,0.0
+SKU059,Low,Low,0.0,19.04761905,Healthy,0.0
+SKU060,Low,Low,0.0,0.0,Healthy,0.0
+SKU061,Low,Medium,0.0,26.2755102,Watch / Volatile,0.0
+SKU062,Low,Low,11.56032849,0.0,Healthy,0.0
+SKU063,Low,Low,0.0,0.0,Healthy,0.0
+SKU064,Low,Low,0.0,22.86324786,Healthy,0.0
+SKU049,Low,Low,0.0,0.0,Healthy,0.0
+SKU050,Low,Low,0.0,0.0,Healthy,0.0
+SKU051,Low,Medium,17.26535342,28.2122905,Watch / Volatile,0.0
+SKU044,Low,Low,0.0,0.0,Healthy,0.0
+SKU068,Low,Low,7.003610108,0.0,Healthy,0.0
+SKU067,Low,Low,0.0,0.0,Healthy,0.0
+SKU066,Low,Low,22.0564731,0.0,Healthy,0.0
+SKU065,Medium,Low,34.67030114,10.95679012,Watch / Volatile,0.0
+SKU072,Low,Low,0.0,19.59247649,Healthy,0.0
+SKU069,Low,Low,7.734204793,0.0,Healthy,0.0
+SKU071,Low,Low,0.0,0.0,Healthy,0.0
+SKU070,Low,Low,7.461476075,0.0,Healthy,0.0
+SKU077,Low,Low,0.0,0.0,Healthy,0.0
+SKU078,Low,Low,0.0,0.0,Healthy,0.0
+SKU079,Low,Low,0.0,0.0,Healthy,0.0
+SKU080,Low,Low,0.0,0.0,Healthy,0.0
+SKU081,Low,Low,0.0,0.0,Healthy,0.0
+SKU073,Low,Low,0.0,13.96648045,Healthy,0.0
+SKU074,Low,Low,0.0,0.0,Healthy,0.0
+SKU075,Low,Low,0.0,0.0,Healthy,0.0
+SKU084,Low,Low,0.0,0.0,Healthy,0.0
+SKU083,Medium,Medium,32.94269433,27.10413695,Watch / Volatile,0.0
+SKU082,Low,Low,0.0,0.0,Healthy,0.0
+SKU085,Low,Low,0.0,22.20394737,Healthy,0.0
+SKU089,Low,Low,0.0,0.0,Healthy,0.0
+SKU090,Low,Low,0.0,0.0,Healthy,0.0
+SKU086,Low,Low,0.0,0.0,Healthy,0.0
+SKU088,Low,Medium,0.0,31.44444444,Watch / Volatile,0.0
+SKU092,Medium,Low,31.41210375,0.0,Watch / Volatile,0.0
+SKU091,Medium,Low,25.93121292,1.367521368,Watch / Volatile,0.0
+SKU095,Low,Low,10.75697211,0.0,Healthy,0.0
+SKU093,Low,Medium,0.0,39.58333333,Watch / Volatile,0.0
+SKU096,Medium,Low,27.6882642,7.109004739,Watch / Volatile,0.0
+SKU097,Low,Low,0.0,0.0,Healthy,0.0
+SKU098,Low,Low,23.9993866,23.77622378,Healthy,0.0
+SKU100,Low,Low,0.0,0.0,Healthy,0.0
